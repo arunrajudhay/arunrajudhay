@@ -7,10 +7,6 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 - 💼 Check out my projects on [GitHub](https://github.com/arunrajudhay)
 - ⚡ Fun fact: I love exploring **Generative AI**
 
-## 🏆 Achievements
-![Python Expert](https://img.shields.io/badge/Python_Expert-green)
-![Data Science Enthusiast](https://img.shields.io/badge/Data_Science_Enthusiast-blue)
-
 
 ### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
