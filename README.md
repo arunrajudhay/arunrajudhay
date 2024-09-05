@@ -30,3 +30,6 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arunraj-udayakumar-27722a146/)
 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruarunraj2013@gmail.com)
+
+
