@@ -3,15 +3,23 @@
 I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Learning**. I love to build and experiment with cutting-edge technologies.
 
 - 🌱 Currently learning **Deep Learning** and **Natural Language Processing**
-- 💼 Check out my projects on [GitHub](https://github.com/yourusername)
+- 💼 Check out my projects on [GitHub](https://github.com/arunrajudhay)
 - ⚡ Fun fact: I love exploring **Generative AI**
 
 ### 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
-<!-- Add more relevant tools -->
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+
 
 ### 🏆 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&theme=radical)
@@ -20,5 +28,5 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arunraj-udayakumar-27722a146/)
+
