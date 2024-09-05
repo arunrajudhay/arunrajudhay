@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Arunraj!                                                                                     ![Visitor Count](https://komarev.com/ghpvc/?username=arunrajudhay&color=blue)
+### Hi there 👋 I'm Arunraj!                                                                                                         ![Visitor Count](https://komarev.com/ghpvc/?username=arunrajudhay&color=blue)
 
 
 I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Learning**. I love to build and experiment with cutting-edge technologies.
