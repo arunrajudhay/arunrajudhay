@@ -17,7 +17,6 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=seaborn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
 
@@ -28,6 +27,6 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arunrajudhay&layout=compact&theme=radical)
 
 ### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arunraj-udayakumar-27722a146/)         [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruarunraj2013@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/arunraj-udayakumar-27722a146/)              [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ruarunraj2013@gmail.com)
 
 
