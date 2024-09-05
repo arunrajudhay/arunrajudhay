@@ -2,9 +2,9 @@
 <p align="center">
   <marquee behavior="scroll" direction="left">Hi there 👋 I'm Arunraj!</marquee>
 </p>
-                                                                                                    ![Visitor Count](https://komarev.com/ghpvc/?username=arunrajudhay&color=blue)
+                                                                                                   
+![Visitor Count](https://komarev.com/ghpvc/?username=arunrajudhay&color=blue)
                                      
-
 I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Learning**. I love to build and experiment with cutting-edge technologies.
 
 - 🌱 Currently learning **Deep Learning** and **Natural Language Processing**
