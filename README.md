@@ -22,7 +22,7 @@ I'm a passionate **Data Scientist** and a curious learner of **AI & Machine Lear
 
 
 ### 🏆 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=stars&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunrajudhay&show_icons=true&hide=stars&theme=radical)
 
 ### 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
